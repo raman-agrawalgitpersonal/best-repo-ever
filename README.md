@@ -1,2 +1,4 @@
 # best-repo-ever
-# changes in local new-branch-1 latest
+
+# changes in local new-branch-2 with resolving conflicts
+
